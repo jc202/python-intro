@@ -1,0 +1,4 @@
+Barbara, Stone, female, roberry, true, Robbed a 7-11 because he wanted a slushy
+Levi, Jones, male, assault, true, Hurt someone because they hurt his feelings
+Aaron, Roberts, male, robbery, false, Stole from a bank - just a little bit
+Tina, Zermand, female, murder, false, Murdered her husband for forgetting their anniversary

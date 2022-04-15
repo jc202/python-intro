@@ -1,0 +1,10 @@
+blue
+khaki
+purple
+green
+yellow
+pink
+orange
+cyan
+gold
+red
