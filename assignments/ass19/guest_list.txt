@@ -1,0 +1,10 @@
+Jenny: true
+Debra: false
+Rob: false
+Dennis: true
+Leo: true
+Adam: false
+Maddy: true
+John: true
+Tommy: false
+Dean: true
